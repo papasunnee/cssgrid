@@ -1,0 +1,23 @@
+{
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "liveServer.settings.port": 5700,
+  "eslint.autoFixOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "prettier.disableLanguages": ["js"],
+  "files.autoSave": "onFocusChange",
+  "editor.fontSize": 17,
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "git.autofetch": true,
+  "window.menuBarVisibility": "default",
+  "workbench.sideBar.location": "left",
+  "files.associations": {
+    "*.html": "html"
+  },
+  "terminal.integrated.rendererType": "dom",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[javascriptreact]": {}
+}
